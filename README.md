@@ -20,6 +20,15 @@ LiveData: Used for data binding and ensuring UI updates automatically with data 
 RecyclerView: Displays the list of notes efficiently.
 SearchView: Implemented for searching through notes.
 Material Design: Provides a modern and user-friendly UI.
+
+## Download
+
+<p align="center">
+    <a href="https://github.com/noureddinelaghribe/NotePro/raw/refs/heads/master/Note%20Pro.apk">
+        <img src="https://raw.githubusercontent.com/noureddinelaghribe/WriteFlow/refs/heads/main/download_apk.png" alt="Get it on Google Play" height="80">
+    </a>
+</p>
+
 ## Screenshots
 Here are some screenshots of the Note Pro app in action:
 
